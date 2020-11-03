@@ -10,8 +10,8 @@ namespace GymApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
+            var userStory = new UI();
+            userStory.GetUserInput("Enter your FirstName: ");
         }
     }
 }

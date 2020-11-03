@@ -8,6 +8,10 @@ namespace GymApplication
 {
     class UI
     {
+        public UI()
+        {
+
+        }
         public string userInput { get; set; }
         public void GetUserInput(string prompt)
         {
