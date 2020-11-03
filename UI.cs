@@ -8,6 +8,7 @@ namespace GymApplication
 {
     class UI
     {
+        //Can take and store user input
         public UI()
         {
 
