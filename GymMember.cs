@@ -18,5 +18,7 @@ namespace GymApplication
             this.lastName = lastName;
             this.passCode = passCode;
         }
+
+        //Define in more detail what you would like accomplished by this application
     }
 }
